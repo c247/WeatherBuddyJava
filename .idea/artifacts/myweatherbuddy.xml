@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="myweatherbuddy">
+    <output-path>$PROJECT_DIR$/out/artifacts/myweatherbuddy</output-path>
+    <root id="archive" name="myweatherbuddy.jar" />
+  </artifact>
+</component>
